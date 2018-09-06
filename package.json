@@ -1,0 +1,29 @@
+{
+    "name": "react-native-interactable-swiper",
+    "version": "0.0.1",
+    "description": "Swiper for ReactNative apps",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wowmaking/react-native-interactable-swiper.git"
+    },
+    "keywords": [
+        "React Native",
+        "Swiper"
+    ],
+    "author": "Gleb Volchetskiy",
+    "license": "MIT",
+    "bugs": {
+        "url": "hhttps://github.com/wowmaking/react-native-interactable-swiper/issues"
+    },
+    "homepage": "https://github.com/wowmaking/react-native-interactable-swiper#readme",
+    "dependencies": {
+        "prop-types": "^15.6.1",
+        "react-native-interactable": "^0.1.10"
+    },
+    "peerDependencies": {
+        "react": ">=16.4.0",
+        "react-native": "*"
+    }
+}

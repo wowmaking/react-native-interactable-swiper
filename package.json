@@ -20,7 +20,7 @@
     "homepage": "https://github.com/wowmaking/react-native-interactable-swiper#readme",
     "dependencies": {
         "prop-types": "^15.6.1",
-        "react-native-interactable": "^0.1.10"
+        "react-native-interactable": "github:wowmaking/react-native-interactable-swiper#1a3e4f1e1696abc1ba4e09d6dce23e233a55d363"
     },
     "peerDependencies": {
         "react": ">=16.4.0",
